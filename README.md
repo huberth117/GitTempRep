@@ -1,0 +1,2 @@
+# GitTempRep
+practica de epecializacion
